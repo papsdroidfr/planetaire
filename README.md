@@ -4,4 +4,6 @@
 
 Ce projet consiste à réaliser un planétaire mécanique à base d'impression 3D.
 
-en construction
+[Guide](https://www.papsdroid.fr/post/planetaire) en construction
+
+
