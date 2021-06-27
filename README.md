@@ -15,7 +15,7 @@ Notre planétaire mécanique à l'échelle d'un bureau va:
 
 Un peu de théorie avec [les engrenages](https://www.papsdroid.fr/post/planetaire-engrenages)
 * les roues dentées utlisées doivent être limitées en nombre de dents (de 13 à 100)
-* les engrenages simples (2 roues dentées) ne permettent pas d'obtenir de gros rapport de réduction R = -d1/d2 (avec 2 roues) ou R=-d1/d3 (avec 3 roues: le nombre de dents de la roue intermédiaire ne compte pas dans le rapport de réduction)
+* les engrenages simples (2 roues dentées) ne permettent pas d'obtenir de gros rapport de réduction R = -d1/d2 (avec 2 roues) ou R = +d1/d3 (avec 3 roues: le nombre de dents de la roue intermédiaire ne compte pas dans le rapport de réduction)
 * les engrenages à étage permettent d'aller chercher les gros rapports de réduction selon l'équation:
 
 R = (-1)^y * (Z1 * Z2 *..* Zn) / (D1 * D2 * ... * Dm)
