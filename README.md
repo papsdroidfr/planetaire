@@ -45,6 +45,7 @@ Mercure tourne autour du soleil en 87,969 jours ( =12,567 semaines). En utilisan
 
 
 ### Vénus
+conception du modèle 3D: [ici](https://www.papsdroid.fr/post/venus)
 
 ![Venus](_gitdoc/Venus.jpeg)
 
