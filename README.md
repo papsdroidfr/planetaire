@@ -32,4 +32,10 @@ R = (-1)^y * (Z1 * Z2 *..* Zn) / (D1 * D2 * ... * Dm)
 
 le programme **engrenage_reduction.py** (dossier /python) calcule la meilleure solution d'engenages sur 2, 3 ou 4 étages pour obtenir un rapport de réduction R donné. Plus de détail dans [cet article](https://www.papsdroid.fr/post/planetaire-calcul-engrenages).
 
- ... conception en cours ...
+## Conception des étages d'engrenages par planète
+
+### Mercure
+
+### Vénus
+
+... construction en cours ...
