@@ -36,6 +36,7 @@ le programme **engrenage_reduction.py** (dossier /python) calcule la meilleure s
 
 ### Mercure
 La conception du prototype en 3D est expliquée [ici](https://www.papsdroid.fr/post/mercure)
+
 ![Mercure](_gitdoc/Mercure.jpg)
 
 Ce premier prototype utilise un mécanismue de réduction 1/7 avec une roue de 13 dents contre une roue de 13*7=91 dents afin d'avoir un premier axe qui représente une jounée (celui où l'on retrouve la manivelle) et un second qui représente une semaine. Tous les mécanismes vont partir de l'axe des semaines, les rapports sont donc tous réduits par 7 dès le départ.
@@ -44,6 +45,7 @@ Mercure tourne autour du soleil en 87,969 jours ( =12,567 semaines). En utilisan
 
 
 ### Vénus
+
 ![Venus](_gitdoc/Venus.jpeg)
 
 Tous les mécanismes partent désormais de l'axe des semaines avec une réduction de 1/7 dès le départ.
