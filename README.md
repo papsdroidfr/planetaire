@@ -51,7 +51,7 @@ conception du modèle 3D: [ici](https://www.papsdroid.fr/post/venus)
 
 Tous les mécanismes partent désormais de l'axe des semaines avec une réduction de 1/7 dès le départ.
 On retrouve donc sur le premier plateau les roues de 14,15, 29 et 91 dents pour obtenir le rapport de réduction 87,967 propre à Mercure 
-Le second plateau est quand à lui composé de 2 roues menantes de 16 dents contre des roues menées de 83 et 99 dents afin d'obtenir un rapport de réduction de 224.684 pour Vénus (Vénus tourne autour du soleil en 224,700 jours). On pourrait obtenir une meilleure précision en ajoutant un 3ème étage mais ce gain de précision n'en vaut pas la peine pour cette maquette qui n'a pas vocation à faire des prédictions.
+Le second plateau est quand à lui composé de 2 roues menantes de 16 dents contre des roues menées de 83 et 99 dents afin d'obtenir un rapport de réduction de 224.684 pour Vénus (Vénus tourne autour du soleil en 224,700 jours). On pourrait obtenir une meilleure précision en ajoutant un 2ème étage mais ce gain de précision n'en vaut pas la peine pour cette maquette qui n'a pas vocation à faire des prédictions.
 Toutes les planètes sont positionnées sur des plateaux centrés sur des axes creux qui s'emboitent les uns dans les autres.
 
 ### Terre
@@ -59,7 +59,7 @@ conception du modèle 3D: [ici](https://www.papsdroid.fr/post/terre)
 
 ![Terre](_gitdoc/Terre.jpg)
 
-Pour rappel, j'utilise un axe commun pour toutes les planètes qui représente 1 semaine (7 jours) par tour complet. Tous les mécanismes héritent de fait de ce premier rapport de réduction de 1/7. Il faut donc viser 7/365,256 comme rapport de réduction. J'utilise mon programme développé en python pour simuler plusieurs solutions de manière à retenir le meilleur compromis entre précision et complexité (nombre d'étages d'engrenages). On arrive à une belle solution avec 3 étages avec 3 peties roues menantes de 13, 15 et 15 dents, contre 3 grandes roues menées de 37, 55 et 75 dents. Si vous faites le calcul 7 * ( 37*55*75) / ( 13*15*15) vous verrez que la précision est diaboliquement proche de 365,256. Puisqu'il y a un étage de plus que pour MErcreu et Vénus, il faut ajouter une roue inverseuse afin que la Terre tourne dans le même sens que les autres planètes.
+Pour rappel, j'utilise un axe commun pour toutes les planètes qui représente 1 semaine (7 jours) par tour complet. Tous les mécanismes héritent de fait de ce premier rapport de réduction de 1/7. Il faut donc viser 7/365,256 comme rapport de réduction. J'utilise mon programme développé en python pour simuler plusieurs solutions de manière à retenir le meilleur compromis entre précision et complexité (nombre d'étages d'engrenages). On arrive à une belle solution avec 2 étages de 3 peties roues menantes de 13, 15 et 15 dents, contre 3 grandes roues menées de 37, 55 et 75 dents. Si vous faites le calcul 7 * ( 37*55*75) / ( 13*15*15) vous verrez que la précision est diaboliquement proche de 365,256. Puisqu'il y a un étage de plus que pour Mercure et Vénus, il faut ajouter une roue inverseuse afin que la Terre tourne dans le même sens que les autres planètes.
 
 ### Mars
 conception du modèle 3D: [ici](https://www.papsdroid.fr/post/_mars)
