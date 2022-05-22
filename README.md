@@ -68,5 +68,5 @@ conception du modèle 3D: [ici](https://www.papsdroid.fr/post/_mars)
 
 Je trouve un très bon compromis avec seulement 2 étages de 3 roues menantes de 14, 15 et 16 dents contre 3 roues menées de 59, 69 et 81 dents. Je rappelle que la première roue menante (celle de 14 dents en l’occurrence) est positionnée sur l'axe de rotation des semaines: il faut donc multiplier le tout par 7 pour avoir le rapport de réduction final: 7*(59*69*81)/(14*15*16) = 686,98125 : pas la peine de se compliquer la vie en rajoutant un 3me étage pour gagner en précision: c'est déjà très précis comme ça quand on vise à obtenir 686.980 ! Enfin une dernière petite astuce pour que Mars tourne dans le même sens que les autres planètes: je pars de l'axe de rotation hebdomadaire déjà inversé du mécanisme de la Terre. L'axe central qui soutient le bras sur lequel Mars est positionnée est quand à lui centré sur l'axe du soleil, et enveloppe les axes respectifs de Mercure, Vénus et celui de la Terre: ils sont tous à l'intérieur.
 
-
-... construction en cours ...
+### Notice de montage 
+La notice de montage complète, avec motirisation optionnelle, est décrite [dans cet article](https://www.papsdroid.fr/post/planetaire-maquette)
